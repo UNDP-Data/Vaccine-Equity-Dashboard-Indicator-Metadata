@@ -1,4 +1,4 @@
-# Vaccine-Equity_Dashboard-Indicator-Metadata
+# Vaccine Equity Dashboard Indicator Metadata
 
 Metadata for the indicators in the vaccine quity dashboard
 
