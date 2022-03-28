@@ -482,8 +482,8 @@
     "ScatterPlot": false,
     "Map": true,
     "BarGraph": true,
-    "Sizing": true,
-    "Color": false
+    "Sizing": false,
+    "Color": true
   },
   {
     "Themes": "Affordability",
