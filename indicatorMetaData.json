@@ -357,7 +357,7 @@
     "Indicator": "Stringency Index",
     "IndicatorDescription": "The Oxford Coronavirus Government Response Tracker (OxCGRT) project calculate a Stringency Index, a composite measure of nine of the response metrics. The index on any given day is calculated as the mean score of the nine metrics, each taking a value between 0 and 100. A higher score indicates a stricter response (i.e. 100 = strictest response). The nine metrics used to calculate the Stringency Index are: school closures; workplace closures; cancellation of public events; restrictions on public gatherings; closures of public transport; stay-at-home requirements; public information campaigns; restrictions on internal movements; and international travel controls.",
     "DataKey": "stringencyindex",
-    "DataSourceName": "UNICEF",
+    "DataSourceName": "OxCGRT",
     "DataSourceLink": "https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker",
     "LabelSuffix": "",
     "LabelPrefix": "",
