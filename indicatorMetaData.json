@@ -223,8 +223,8 @@
   },
   {
     "Themes": "Accessibility",
-    "Indicator": "Secured and/or Expected Vaccine Supply in total courses (% of population)",
-    "IndicatorDescription": "Final total secured and/or expected vaccine supply including bilateral deals, bilateral donations, COVAX, domestic supply and others (% of population). One course is defined as vaccine coverage for one person. Specifically, for vaccines that require two doses, 2 doses = 1 course. For vaccines that require only one dose, 1 dose = 1 course.",
+    "Indicator": "Secured and/or Expected Vaccine Supply in total doses (% of population)",
+    "IndicatorDescription": "Final total secured and/or expected vaccine supply including bilateral deals, bilateral donations, COVAX, domestic supply and others (doses as percent of population).",
     "DataKey": "securedvaccineofpopulation",
     "DataSourceName": "IMF-WHO-COVID-19-Vaccine-Supply-Tracker",
     "DataSourceLink": "https://www.imf.org/en/Topics/imf-and-covid19/IMF-WHO-COVID-19-Vaccine-Supply-Tracker",
@@ -349,8 +349,8 @@
     "ScatterPlot": false,
     "Map": true,
     "BarGraph": true,
-    "Sizing": false,
-    "Color": true
+    "Sizing": true,
+    "Color": false
   },
   {
     "Themes": "Accessibility",
@@ -482,8 +482,8 @@
     "ScatterPlot": false,
     "Map": true,
     "BarGraph": true,
-    "Sizing": false,
-    "Color": true
+    "Sizing": true,
+    "Color": false
   },
   {
     "Themes": "Affordability",
