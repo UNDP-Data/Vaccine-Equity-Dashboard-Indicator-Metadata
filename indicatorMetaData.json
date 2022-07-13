@@ -400,7 +400,7 @@
   {
     "Themes": "Affordability",
     "Indicator": "Cost of vaccinating 40% of population as a percent of current health expenditure",
-    "IndicatorDescription": "Cost of vaccinating 40% of population as percent of current health expenditure (CHE) per capita in US$  (low income US$4.65 per dose; lower middle US$4.72 per dose; upper middle US$8.47 per dose; high income US$11.56 per dose)",
+    "IndicatorDescription": "Cost of vaccinating 40% of population as percent of current health expenditure (CHE) per capita in US$  (low income US$4.64 per dose; lower middle US$4.95 per dose; upper middle US$7.83 per dose; high income US$11.49 per dose)",
     "DataKey": "pricebracket_che40",
     "DataSourceName": "UNICEF;WHO",
     "DataSourceLink": "https://www.unicef.org/supply/covid-19-vaccine-market-dashboard",
@@ -512,7 +512,7 @@
   {
     "Themes": "Affordability",
     "Indicator": "Cost of vaccinating 40% of population as percent of GDP",
-    "IndicatorDescription": "Cost of vaccinating 40% of population as percent of GDP (low income US$4.65 per dose; lower middle US$4.72 per dose; upper middle US$8.47 per dose; high income US$11.56 per dose)",
+    "IndicatorDescription": "Cost of vaccinating 40% of population as percent of GDP (low income US$4.64 per dose; lower middle US$4.95 per dose; upper middle US$7.83 per dose; high income US$11.49 per dose)",
     "DataKey": "cost_gdp_income40",
     "DataSourceName": "IMF WEO October 2021;UNDP Survey;COVAX Facility",
     "LabelSuffix": "",
