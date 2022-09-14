@@ -182,7 +182,7 @@
     "DataKey": "number_vaccines_types_used",
     "DataSourceName": "WHO",
     "DataSourceLink": "https://covid19.who.int/info/",
-    "LabelSuffix": "days ago",
+    "LabelSuffix": "",
     "LabelPrefix": "",
     "LabelFormat": "",
     "LabelExtra": "vaccines_used",
