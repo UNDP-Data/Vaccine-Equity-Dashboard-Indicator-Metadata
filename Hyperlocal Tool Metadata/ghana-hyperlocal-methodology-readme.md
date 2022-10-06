@@ -10,7 +10,7 @@ Average community vulnerability score on a scale of 3 to 15, where higher values
 Exposure components include equally weighted indicators of: 
 
 | **Variable**      | **Variable Description**  | **Source** |
-| ------------- |-------------| -----|
+| ------------- |-------------| -----| -----|
 | 1 |<code>Community density</code>      | Community density at the 1 km squared level| Demographic and Health Survey (DHS), 2014 |
 | 2 |<code> Healthcare workforce size</code>      |  Percentage of adults aged 15 to 49 employed in health care or essential services| Demographic and Health Survey (DHS), 2014 |
 | 3 |<code> Number of household members per sleeping room</code>      |  Average number of household members per sleeping room| Demographic and Health Survey (DHS), 2014 |
@@ -22,7 +22,7 @@ Exposure components include equally weighted indicators of:
 
 The comorbidities component includes equally weighted indicators of:
 | **Variable**      | **Variable Description**  | **Source** |
-| ------------- |-------------| -----|
+| ------------- |-------------| -----| -----|
 | 1 |<code> Elderly population aged 60+</code>      | Elderly population aged 60 and older | Demographic and Health Survey (DHS), 2014 |
 | 2 |<code> Female adult obesity burden</code>      |  Rate of female adult (15-49) obesity | Demographic and Health Survey (DHS), 2014 |
 | 3 |<code> Percentage of adults who have been diagnosed with high blood pressures or hypertension </code>      |   Percentage of adults (15-49) who have ever been told by a doctor or healthcare worker that they had high blood pressure or hypertension | Demographic and Health Survey (DHS), 2014 |
@@ -34,7 +34,7 @@ The comorbidities component includes equally weighted indicators of:
 The vulnerabilities component is based on equally weighted indicators for:
 
 | **Variable**      | **Variable Description**  | **Source** |
-| ------------- |-------------| -----|
+| ------------- |-------------| -----| -----|
 | 1 |<code> Information access</code>      | Two indicators are equally weighted within the information access sub-component: 3a.1) percentage of households with no cell phones in the household, and 3a.2) percentage of households with no radio, internet, or television and no adults aged 15 to 49 who regularly consume traditional media (newspaper, radio, television). Regular consumption is defined as reading, listening, or watching the media at least once a week.  | Demographic and Health Survey (DHS), 2014 |
 | 2 |<code> Vaccination likeliness </code>      |  Rate of female adult (15-49) obesity | Demographic and Health Survey (DHS), 2014 |
 | 3 |<code> Prevention </code>      |    Two indicators are equally weighted within the prevention sub-component: 1) percentage of individuals with no soap available for handwashing inside the household, and 2) percentage of individuals with no water available for handwashing inside the household. | Demographic and Health Survey (DHS), 2014 |
