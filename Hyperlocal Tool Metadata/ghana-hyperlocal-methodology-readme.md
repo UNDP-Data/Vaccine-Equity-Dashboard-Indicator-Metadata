@@ -42,4 +42,6 @@ The vulnerabilities component is based on equally weighted indicators for:
 ### 4. Calculation
 Indicators within components and sub-components are combined with z-scores at the 1 km squared grid level. The total of all z-scores is then classified into a component and sub-component score ranging from 1 to 5 by quintile. Sub-components are added together and classified into a component score ranging from 1 to 5 by quintile. All three components are then added together.
 
+
+### 5. Output Source:
 Source: [Fraym](https://fraym.io/)
