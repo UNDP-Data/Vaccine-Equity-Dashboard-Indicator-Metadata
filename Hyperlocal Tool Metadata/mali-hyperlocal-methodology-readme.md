@@ -1,4 +1,4 @@
-# Ghana Community Vulnerability Score (Methodology)
+# Mali Community Vulnerability Score (Methodology)
 
 ## Overview
 Average community vulnerability score on a scale of 3 to 15, where higher values represent higher levels of vulnerability, based on communities’ 1) exposure risk, 2) comorbidities risk, and 3) other vulnerabilities.
