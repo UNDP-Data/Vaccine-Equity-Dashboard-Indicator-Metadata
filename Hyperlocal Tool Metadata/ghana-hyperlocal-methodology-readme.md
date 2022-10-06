@@ -17,7 +17,7 @@ Exposure components include equally weighted indicators of:
 | 4 | <code> Percentage of intergenerational households</code>      |  percentage of households that are intergenerational, defined as having a a youth under the age of 18 and an elder aged 60 or older | Demographic and Health Survey (DHS), 2014 |
 | 5 | <code> Regional cumulative COVID-19 cases </code>      |   Rate of accumulated COVID-19 cases to population at the region level using data from the Ghana Health Services COVID-19 dashboard | Ghana Health Services COVID-19 dashboard |
 
-<p></p>
+
 ### 2. Comorbidities
 
 The comorbidities component includes equally weighted indicators of:
@@ -28,7 +28,6 @@ The comorbidities component includes equally weighted indicators of:
 | 3 | <code> Percentage of adults who have been diagnosed with high blood pressures or hypertension </code>      |   Percentage of adults (15-49) who have ever been told by a doctor or healthcare worker that they had high blood pressure or hypertension | Demographic and Health Survey (DHS), 2014 |
 | 4 | <code>  Mean HIV prevalence  </code>      |   Adult (15-49) mean HIV prevalence estimated by IHME at the 5 km squared level | Institute for Health Metrics Evaluation |
 
-<p></p>
 ### 3. Vulnerabilities
 
 The vulnerabilities component is based on equally weighted indicators for:
@@ -39,7 +38,6 @@ The vulnerabilities component is based on equally weighted indicators for:
 | 2 | <code> Vaccination likeliness </code>      |  Rate of female adult (15-49) obesity | Demographic and Health Survey (DHS), 2014 |
 | 3 | <code> Prevention </code>      |    Two indicators are equally weighted within the prevention sub-component: 1) percentage of individuals with no soap available for handwashing inside the household, and 2) percentage of individuals with no water available for handwashing inside the household. | Demographic and Health Survey (DHS), 2014 |
 
-<p></p>
 
 ### 4. Calculation
 Indicators within components and sub-components are combined with z-scores at the 1 km squared grid level. The total of all z-scores is then classified into a component and sub-component score ranging from 1 to 5 by quintile. Sub-components are added together and classified into a component score ranging from 1 to 5 by quintile. All three components are then added together.
