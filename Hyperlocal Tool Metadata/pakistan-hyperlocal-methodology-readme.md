@@ -15,8 +15,8 @@ Exposure components include equally weighted indicators of:
 | 2 | <code> Healthcare workforce size</code>      |  Percentage of adults aged 15 to 49 employed in health care or essential services| Demographic and Health Survey (DHS), 2018 |
 | 3 | <code> Number of household members per sleeping room</code>      |  Average number of household members per sleeping room| Demographic and Health Survey (DHS), 2018 |
 | 4 | <code> Percentage of intergenerational households</code>      |  Percentage of households that are intergenerational, defined as having a a youth under the age of 18 and an elder aged 60 or older | Demographic and Health Survey (DHS), 2018 |
-| 5 | <code> Provincial cumulative COVID-19 cases </code>      |   rate of accumulated COVID-19 cases to population at the province level | Government of Pakistan COVID-19 dashboard |
-| 6 | <code> Social Mixing </code>      |   change in visits retail and recreation locations, public transport sites, and workplaces at the province level | Google mobility data |
+| 5 | <code> Provincial cumulative COVID-19 cases </code>      |   Rate of accumulated COVID-19 cases to population at the province level | Government of Pakistan COVID-19 dashboard |
+| 6 | <code> Social Mixing </code>      |   Change in visits retail and recreation locations, public transport sites, and workplaces at the province level | Google mobility data |
 | 7 | <code> Refugee Population </code>      |   Number of registered refugees at camps and urban locations. | UNHCR |
 
 

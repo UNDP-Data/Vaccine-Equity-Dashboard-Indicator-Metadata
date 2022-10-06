@@ -14,9 +14,9 @@ Exposure components include equally weighted indicators of:
 | 1 | <code> Community density</code>      | Community density at the 1 km squared level| Demographic and Health Survey (DHS), 2014 |
 | 2 | <code> Healthcare workforce size</code>      |  Percentage of adults aged 15 to 49 employed in health care or essential services| Demographic and Health Survey (DHS), 2014 |
 | 3 | <code> Number of household members per sleeping room</code>      |  Average number of household members per sleeping room| Demographic and Health Survey (DHS), 2014 |
-| 4 | <code> Percentage of intergenerational households</code>      |  percentage of households that are intergenerational, defined as having a a youth under the age of 18 and an elder aged 60 or older | Demographic and Health Survey (DHS), 2014 |
+| 4 | <code> Percentage of intergenerational households</code>      |  Percentage of households that are intergenerational, defined as having a a youth under the age of 18 and an elder aged 60 or older | Demographic and Health Survey (DHS), 2014 |
 | 5 | <code> Regional cumulative COVID-19 cases </code>      |   Rate of accumulated COVID-19 cases to population at the region level | Kenya Ministry of Health |
-| 6 | <code> Refugee Population </code>      |   refugee population registered at camps or urban locations | UNHCR |
+| 6 | <code> Refugee Population </code>      |   Refugee population registered at camps or urban locations | UNHCR |
 
 
 
@@ -28,8 +28,8 @@ The comorbidities component includes equally weighted indicators of:
 | 1 | <code> Elderly population aged 60+</code>      | Elderly population aged 60 and older | Demographic and Health Survey (DHS), 2014 |
 | 2 | <code> Female adult obesity burden</code>      |  Rate of female adult (15-49) obesity | Demographic and Health Survey (DHS), 2014 |
 | 3 | <code> High blood pressure or hypertension prevalence </code>      |   Percentage of adults (15-49) who have ever been told by a doctor or healthcare worker that they had high blood pressure or hypertension | Demographic and Health Survey (DHS), 2014 |
-| 4 | <code> High blood sugar or diabetes prevalence </code>      |  percentage of adults (15-49) who have ever been told by a doctor or healthcare worker that they had raised blood sugar or diabetes | Demographic and Health Survey (DHS), 2014 |
-| 5 | <code>  Mean HIV prevalence  </code>      |   Adult (15-49) mean HIV prevalence estimated by IHME at the 5 km squared level | Institute for Health Metrics Evaluation |
+| 4 | <code> High blood sugar or diabetes prevalence </code>      |  Percentage of adults (15-49) who have ever been told by a doctor or healthcare worker that they had raised blood sugar or diabetes | Demographic and Health Survey (DHS), 2014 |
+| 5 | <code> Mean HIV prevalence  </code>      |   Adult (15-49) mean HIV prevalence estimated by IHME at the 5 km squared level | Institute for Health Metrics Evaluation |
 
 ### 3. Vulnerabilities
 
